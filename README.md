@@ -1,8 +1,5 @@
 # THACC
 
-# THACC_Pytorch
-This contains the pytorch version of our code. This is the initial deployed version.
-
 ## Initials
 After git pull either via terminal or GUI do this
 
