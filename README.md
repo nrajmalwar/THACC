@@ -4,7 +4,7 @@
 After git pull either via terminal or GUI do this
 
 ```
-cd THACC_Pytorch
+cd THACC
 pip install --upgrade pip
 python -m venv venv
 . venv/bin/activate
